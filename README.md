@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/seasonaldepression133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seasonaldepression133" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jantirzuh133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jantirzuh133" height="30" width="40" /></a>
-<a href="https://fb.com/jantirzuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jantirzuh" height="30" width="40" /></a>
+<a href="https://fb.com/jantirzuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jantirzuh santos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

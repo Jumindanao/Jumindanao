@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jan tirzuh</h1>
+<h1 align="center">Hi 👋, I'm Jan Tirzuh Santos</h1>
 <h3 align="center">A passionate frontend developer from Davao</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumindanao&label=Profile%20views&color=0e75b6&style=flat" alt="jumindanao" /> </p>
